@@ -4,7 +4,7 @@ Python script to calculate the *sum of all of the calibration values* hidden in 
 
 ## ElfGetTrueCalibration.sh
 
-Python script to calculate the *sum of all the accurate calibration values*sum of all of the calibration values* hidden in the Elf's calbiration file
+Python script to calculate the *sum of all the accurate calibration values* hidden in the Elf's calbiration file
 
 ## calibration.txt
 
